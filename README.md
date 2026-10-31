@@ -21,6 +21,14 @@ I have a foundation in programming, web and mobile development, and databases, a
 -  **Learning:** AI fundamentals — my first AI projects will land here soon
 -  **Experience:** team leader and team member on academic software projects
 
+## Education
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg">
+  <img alt="Education at UEH: B.Sc. in Information Technology, cohort K50, GPA 3.51 out of 4.00, with completed and current courses" src="assets/education-light.svg" width="100%">
+</picture>
+
 ## AI learning path
 
 <picture>

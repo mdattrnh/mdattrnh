@@ -18,8 +18,8 @@
 I'm a third-year **Information Technology student at the University of Economics Ho Chi Minh City (UEH)**.
 I have a foundation in programming, web and mobile development, and databases, and I'm now moving toward **AI Engineering**.
 
-- 🌱 **Learning:** AI fundamentals — my first AI projects will land here soon
-- 🧑‍💻 **Experience:** team leader and team member on academic software projects
+-  **Learning:** AI fundamentals — my first AI projects will land here soon
+-  **Experience:** team leader and team member on academic software projects
 
 ## AI learning path
 
